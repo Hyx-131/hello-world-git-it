@@ -1,4 +1,4 @@
 hi
-the first line to commit to git
+first git commit
 hi again
 the second line to commit
